@@ -1,0 +1,112 @@
+﻿45a - Proportion of women in managerial positions
+
+Indicator Name,Region,Country Code,Country,Year,Sex,Age,Location,Occupation,Value,LowerBound,UpperBound,Unit,NatureData,OriginData,Footnote1,Footnote2,Footnote3,Footnote4,Footnote5,Footnote6,Coverage
+Proportion of women in managerial positions,Southern Asia,50,Bangladesh,2017,Female,-,-,-,10.7,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Southern Asia,144,Sri Lanka,2017,Female,-,-,-,27.6,-,-,Percentage,Country data,-,Employment definition: Including subsistence workers,Geographical coverage: Total national  excluding some areas,Population coverage: Excluding both institutional population and armed forces and/or conscripts;,-,-
+Proportion of women in managerial positions,Southern Asia,364,Iran (Islamic Republic of),2017,Female,-,-,-,19,-,-,Percentage,Country data,-,Employment definition: Including subsistence workers,Population coverage: Excluding institutional population,Age coverage - minimum age: 10 years old;,-,-
+Proportion of women in managerial positions,Developed regions,8,Albania,2017,Female,-,-,-,22.6,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers,Population coverage: Excluding both institutional population and armed forces and/or conscripts;,-,-,-
+Proportion of women in managerial positions,Developed regions,40,Austria,2017,Female,-,-,-,31.8,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,56,Belgium,2017,Female,-,-,-,33.6,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;Break in series: Methodology revised,-,-,-,-
+Proportion of women in managerial positions,Developed regions,100,Bulgaria,2017,Female,-,-,-,39.2,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,112,Belarus,2017,Female,-,-,-,47.6,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers,Population coverage: Excluding non-permanent residents,Institutional sector coverage: Private sector only,Age coverage - maximum age: 74 years old;,-
+Proportion of women in managerial positions,Developed regions,191,Croatia,2017,Female,-,-,-,29.1,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,196,Cyprus,2017,Female,-,-,-,20.7,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,203,Czech Republic,2017,Female,-,-,-,24.6,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,208,Denmark,2017,Female,-,-,-,27,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,233,Estonia,2017,Female,-,-,-,38.5,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,246,Finland,2017,Female,-,-,-,31.3,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,250,France,2017,Female,-,-,-,33.4,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,276,Germany,2017,Female,-,-,-,29.2,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,300,Greece,2017,Female,-,-,-,29.8,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,348,Hungary,2017,Female,-,-,-,39.4,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,352,Iceland,2017,Female,-,-,-,32.4,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,372,Ireland,2017,Female,-,-,-,35.9,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,376,Israel,2017,Female,-,-,-,34.5,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,380,Italy,2017,Female,-,-,-,27.5,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;Unemployment definition: Two criteria (not in employment and seeking),-,-,-,-
+Proportion of women in managerial positions,Developed regions,392,Japan,2017,Female,-,-,-,13.2,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,428,Latvia,2017,Female,-,-,-,46.3,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,440,Lithuania,2017,Female,-,-,-,39.3,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,442,Luxembourg,2017,Female,-,-,-,18.8,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,470,Malta,2017,Female,-,-,-,28.5,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,498,Republic of Moldova,2017,Female,-,-,-,42,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,499,Montenegro,2017,Female,-,-,-,22.1,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,528,Netherlands,2017,Female,-,-,-,26.6,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,578,Norway,2017,Female,-,-,-,38.3,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,616,Poland,2017,Female,-,-,-,41.3,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,620,Portugal,2017,Female,-,-,-,34.3,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,642,Romania,2017,Female,-,-,-,30.4,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,643,Russian Federation,2017,Female,-,-,-,41.3,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,688,Serbia,2017,Female,-,-,-,30.7,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,703,Slovakia,2017,Female,-,-,-,32.8,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,705,Slovenia,2017,Female,-,-,-,41.2,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,724,Spain,2017,Female,-,-,-,30.6,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,752,Sweden,2017,Female,-,-,-,38.9,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,756,Switzerland,2017,Female,-,-,-,33.9,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,804,Ukraine,2017,Female,-,-,-,41.1,-,-,Percentage,Country data,-,Employment definition: Including subsistence workers,Geographical coverage: Total national  excluding some areas,Population coverage: Excluding both institutional population and armed forces and/or conscripts,Age coverage - maximum age: 70 years old;,-
+Proportion of women in managerial positions,Developed regions,807,North Macedonia,2017,Female,-,-,-,24,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,826,United Kingdom of Great Britain and Northern Ireland,2017,Female,-,-,-,36.2,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,Developed regions,840,United States of America,2017,Female,-,-,-,40.5,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Age coverage - minimum age: 16 years old;,-,-,-
+Proportion of women in managerial positions,Northern Africa,12,Algeria,2017,Female,-,-,-,8.4,-,-,Percentage,Country data,-,Data reference period: September;,-,-,-,-
+Proportion of women in managerial positions,Northern Africa,818,Egypt,2017,Female,-,-,-,6.4,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Oceania,882,Samoa,2017,Female,-,-,-,43.1,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Employment definition: Excluding own-use production workers;,-,-,-
+Proportion of women in managerial positions,Sub-Saharan Africa,108,Burundi,2017,Female,-,-,-,32.4,-,-,Percentage,Country data,-,Geographical coverage: Main cities or metropolitan areas,Age coverage - minimum age: 10 years old;,-,-,-
+Proportion of women in managerial positions,Sub-Saharan Africa,132,Cabo Verde,2017,Female,-,-,-,43.8,-,-,Percentage,Country data,-,-,-,-,-,-
+Proportion of women in managerial positions,Sub-Saharan Africa,480,Mauritius,2017,Female,-,-,-,30.1,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Age coverage - minimum age: 16 years old;,-,-,-
+Proportion of women in managerial positions,Sub-Saharan Africa,646,Rwanda,2017,Female,-,-,-,36.3,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Employment definition: Excluding own-use production workers;,-,-,-
+Proportion of women in managerial positions,Sub-Saharan Africa,690,Seychelles,2017,Female,-,-,-,46.8,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Sub-Saharan Africa,710,South Africa,2017,Female,-,-,-,32.1,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Sub-Saharan Africa,800,Uganda,2017,Female,-,-,-,31.8,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers,Data reference period: Noncalendar year;,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,32,Argentina,2017,Female,-,-,-,30.9,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Geographical coverage: Main cities or metropolitan areas;,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2017,Female,-,-,-,35.3,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,76,Brazil,2017,Female,-,-,-,39.9,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,84,Belize,2017,Female,-,-,-,51.1,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,152,Chile,2017,Female,-,-,-,26.5,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,188,Costa Rica,2017,Female,-,-,-,36.8,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,214,Dominican Republic,2017,Female,-,-,-,41.1,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,218,Ecuador,2017,Female,-,-,-,34.8,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,222,El Salvador,2017,Female,-,-,-,32.4,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Age coverage - minimum age: 16 years old;,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,328,Guyana,2017,Female,-,-,-,37.9,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Data reference period: Third quarter;,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,340,Honduras,2017,Female,-,-,-,48.4,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Data reference period: Second quarter;,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,388,Jamaica,2017,Female,-,-,-,56.7,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers,Population coverage: Excluding both institutional population and armed forces and/or conscripts;,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,484,Mexico,2017,Female,-,-,-,36.7,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,591,Panama,2017,Female,-,-,-,42.7,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Data reference period: August;,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,600,Paraguay,2017,Female,-,-,-,34.7,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,604,Peru,2017,Female,-,-,-,36.8,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Latin America and the Caribbean,858,Uruguay,2017,Female,-,-,-,34.6,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Caucasus and Central Asia,31,Azerbaijan,2017,Female,-,-,-,34.5,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers,Data reference period: End of the year,Population coverage: Excluding both institutional population and armed forces and/or conscripts;,-,-
+Proportion of women in managerial positions,Caucasus and Central Asia,51,Armenia,2017,Female,-,-,-,28.7,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Age coverage - maximum age: 75 years old;,-,-,-
+Proportion of women in managerial positions,Caucasus and Central Asia,268,Georgia,2017,Female,-,-,-,32,-,-,Percentage,Country data,-,Employment definition: Including subsistence workers,Geographical coverage: Total national  excluding some areas,Population coverage: Excluding institutional population;,-,-
+Proportion of women in managerial positions,Caucasus and Central Asia,417,Kyrgyzstan,2017,Female,-,-,-,36.2,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers;,-,-,-,-
+Proportion of women in managerial positions,Western Asia,275,State of Palestine,2017,Female,-,-,-,15.9,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;Remarks: These results will be revised once the updated weights issued from the latest Census will be released,-,-,-,-
+Proportion of women in managerial positions,Western Asia,634,Qatar,2017,Female,-,-,-,15.1,-,-,Percentage,Country data,-,Data reference period: September;,-,-,-,-
+Proportion of women in managerial positions,Western Asia,784,United Arab Emirates,2017,Female,-,-,-,12.5,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Western Asia,792,Turkey,2017,Female,-,-,-,15,-,-,Percentage,Country data,-,Repository: Eurostat special tabulation;,-,-,-,-
+Proportion of women in managerial positions,South-eastern Asia,104,Myanmar,2017,Female,-,-,-,35.6,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Employment definition: Excluding own-use production workers;Break in series: Methodology revised,-,-,-
+Proportion of women in managerial positions,South-eastern Asia,360,Indonesia,2017,Female,-,-,-,27.5,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,South-eastern Asia,418,Lao People's Democratic Republic,2017,Female,-,-,-,59,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing,Employment definition: Excluding own-use production workers;,-,-,-
+Proportion of women in managerial positions,South-eastern Asia,608,Philippines,2017,Female,-,-,-,51.5,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,South-eastern Asia,702,Singapore,2017,Female,-,-,-,34.5,-,-,Percentage,Country data,-,Data reference period: June,Population coverage: Nationals  residents;,-,-,-
+Proportion of women in managerial positions,South-eastern Asia,704,Viet Nam,2017,Female,-,-,-,27.2,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,Eastern Asia,410,Republic of Korea,2017,Female,-,-,-,12.3,-,-,Percentage,Country data,-,Employment definition: Excluding own-use production workers,Geographical coverage: Total national  excluding overseas territories,Population coverage: Excluding armed forces and/or conscripts;,-,-
+Proportion of women in managerial positions,Eastern Asia,496,Mongolia,2017,Female,-,-,-,42.5,-,-,Percentage,Country data,-,Repository: ILO-STATISTICS - Micro data processing;,-,-,-,-
+Proportion of women in managerial positions,-,53,-,2017,Female,-,-,-,37.3,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,62,-,2017,Female,-,-,-,14.2,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,143,-,2017,Female,-,-,-,30.3,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,753,-,2017,Female,-,-,-,30.2,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,30,-,2017,Female,-,-,-,25.8,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,150,-,2017,Female,-,-,-,35.8,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,513,-,2017,Female,-,-,-,37.4,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,432,-,2017,Female,-,-,-,28.8,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,419,-,2017,Female,-,-,-,38.4,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,199,-,2017,Female,-,-,-,21.9,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,15,-,2017,Female,-,-,-,7.6,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,747,-,2017,Female,-,-,-,11.7,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,21,-,2017,Female,-,-,-,39.2,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,9,-,2017,Female,-,-,-,36.8,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,543,-,2017,Female,-,-,-,27.4,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,722,-,2017,Female,-,-,-,36.4,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,35,-,2017,Female,-,-,-,40.6,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,34,-,2017,Female,-,-,-,13.8,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,202,-,2017,Female,-,-,-,29.3,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,145,-,2017,Female,-,-,-,15.8,-,-,Percentage,Modeled data,-,-,-,-,-,-
+Proportion of women in managerial positions,-,1,-,2017,Female,-,-,-,27,-,-,Percentage,Modeled data,-,-,-,-,-,-
