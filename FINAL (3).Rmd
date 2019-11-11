@@ -1,0 +1,27 @@
+```{r}
+library(rio)
+Congreso=import('https://github.com/stephanyrodriguezl/trabajo-final-Magallanes/raw/master/Congreso.csv')
+Gerencia=import('https://github.com/stephanyrodriguezl/trabajo-final-Magallanes/raw/master/Gerencia.csv')
+Ministerio=import('https://github.com/stephanyrodriguezl/trabajo-final-Magallanes/raw/master/Ministerio.csv')
+```
+```{r}
+Congreso=Congreso[c(4,10)]
+Gerencia=Gerencia[c(4,10)]
+Ministerio=Ministerio[c(4,7)]
+
+```
+```{r}
+names(Congreso) = c("Country", "EscañosFemeninosCongreso")
+names(Gerencia)=c('Country','MujeresEnCargosGerenciales')
+names(Ministerio)=c('Country','MinistrasMujeres')
+```
+
+```{r}
+CongxGer=merge(Congreso,Gerencia)
+Datafinal=merge(CongxGer,Ministerio)
+
+```
+```{r}
+str(Datafinal)
+```
+
